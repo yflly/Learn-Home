@@ -1,6 +1,6 @@
 # Learn-Home
 Figma - Définir les besoins pour une app de soutien scolaire
-- [link](https://www.figma.com/file/mC2UtvrscpNWrkOez7tqg1/LEARN%40HOME?node-id=0%3A1)
+- [Figma link](https://www.figma.com/file/mC2UtvrscpNWrkOez7tqg1/LEARN%40HOME?node-id=0%3A1)
 
 ![The picture](./DHome.png "picture")
 ![The picture](./mobile.png "picture2")
